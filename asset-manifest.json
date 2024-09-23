@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/date-app/static/css/main.2ae97e01.css",
+    "main.js": "/date-app/static/js/main.d0c27c58.js",
+    "static/media/horny.png": "/date-app/static/media/horny.002337b2afc738c69902.png",
+    "static/media/happy.png": "/date-app/static/media/happy.f5e8b6c6a0d2be4d60a3.png",
+    "static/media/norm.png": "/date-app/static/media/norm.0d0399f410bac505a8c9.png",
+    "static/media/angry.png": "/date-app/static/media/angry.4b8042b6a4cae2ca730b.png",
+    "index.html": "/date-app/index.html",
+    "main.2ae97e01.css.map": "/date-app/static/css/main.2ae97e01.css.map",
+    "main.d0c27c58.js.map": "/date-app/static/js/main.d0c27c58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ae97e01.css",
+    "static/js/main.d0c27c58.js"
+  ]
+}
